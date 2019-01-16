@@ -1,2 +1,80 @@
 # CodesNotes
-阅读书籍或者网上教程的代码练习记录。
+记录阅读的书籍或者网上教程的代码练习的记录。
+
+
+
+#### 正在学习List
+
+- [《hands-on-ml-with-sklearn-and-tf》](https://github.com/ageron/handson-ml)
+- [程序员的数学基础课](https://time.geekbang.org/column/intro/143)
+
+------
+
+这里整理归纳一些平时收集到的书籍、教程、项目等资源，主要是机器学习、深度学习、Python方面的。
+
+## AI 参考学习资料
+
+### 综合资源
+
+1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)--Github 上的一个9000+星的资源，包含书籍、课程、教程、论文、数据集、博客等等
+2. [资源汇总 | 200多个最好的机器学习、NLP和Python相关教程](http://mp.weixin.qq.com/s?__biz=MzI0NDUwNzYzMg==&mid=2247483951&idx=1&sn=7a83632562662e520407627196c2ba65&chksm=e95df4b0de2a7da6958c89d1a3dbe43bc4165fab2ecdcc4992a666091bb1676e0e3fe570d822&mpshare=1&scene=1&srcid=#rd)
+3. [AI算法工程师手册](http://www.huaxiaozhuan.com/)--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识
+4. [StateOfTheArt.ai ](https://www.stateoftheart.ai/)--AI 界的 State of the Art都在这里了
+5. [Deep Learning - All You Need to Know](https://github.com/osforscience/deep-learning-ocean)--深度学习资源，包含了论文、网络模型、教程、数据集、博客、框架等等
+
+### 网上教程
+
+#### TensorFlow
+
+- [Simple and ready-to-use tutorials for TensorFlow](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)--简单快速入门的TF教程
+- [TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples/)--2w6的Star的教程，从机器学习算法到深度学习，以及一些使用方法，比如数据加载、模型保存、多GPU、可视化
+
+#### 机器学习
+
+- [机器学习100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)[[中文翻译]](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [Machine Learning in Python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)--手把手教你利用Python对图像数据进行机器学习（使用scikit-learn
+和Keras）：Machine Learning in Python
+注：含KNN、朴素贝叶斯、Logistic回归、SVM、决策树、随机森林、神经网络和深度神经网络和CNN等算法
+
+#### 深度学习
+
+- [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)--基于TensorFlow和Keras的深度学习书籍《Deep Learning Cookbook》,代码很详细，包含多个项目！
+- [深度学习教程整理 | 干货](https://github.com/zeusees/HyperDL-Tutorial?from=singlemessage&isappinstalled=0)--整理深度学习方面的教程，包括基础网络、框架总结、网络设计和转换等
+
+### 视频课程
+
+#### 机器学习
+
+- [李宏毅老师的机器学习课程](https://www.bilibili.com/video/av10590361)
+- [斯坦福大学的 CS229 机器学习课程](https://link.zhihu.com/?target=http%3A//cs229.stanford.edu/)
+
+#### 深度学习
+
+- [李宏毅老师的深度学习课程](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av9770302)
+- [CS231n课程](https://link.zhihu.com/?target=http%3A//cs231n.stanford.edu/)
+
+### 书籍
+
+#### 机器学习
+
+- 《统计学习方法》
+
+代码：https://github.com/wzyonggege/statistical-learning-method
+
+https://github.com/WenDesi/lihang_book_algorithm
+
+https://blog.csdn.net/tudaodiaozhale
+
+https://github.com/fengdu78/lihang-code--python3.6版本
+
+- 《hands-on-ml-with-sklearn-and-tf》[[电子书]](http://download.csdn.net/download/xinconan1992/9877225)[[中文版翻译]](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)[[Code]](https://github.com/ageron/handson-ml)
+
+#### 深度学习
+
+- 《动手学深度学习》[[pdf]](https://zh.gluon.ai/gluon_tutorials_zh.pdf)[[Github]](Github：https://github.com/diveintodeeplearning/d2l-zh)[[Home]](https://zh.gluon.ai/)
+- [深度学习图解](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)[[代码]](https://github.com/iamtrask/Grokking-Deep-Learning)
+- 《21个项目玩转深度学习———基于TensorFlow的实践详解》[[code]](https://github.com/hzy46/Deep-Learning-21-Examples)
+
+------
+
+## Python 参考学习资料
