@@ -75,6 +75,59 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [深度学习图解](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)[[代码]](https://github.com/iamtrask/Grokking-Deep-Learning)
 - 《21个项目玩转深度学习———基于TensorFlow的实践详解》[[code]](https://github.com/hzy46/Deep-Learning-21-Examples)
 
+### 网站
+
+#### 国内
+
+- (**推荐**)[机器之心](https://www.jiqizhixin.com/)--
+- [PaperWeekly](https://www.paperweekly.site/tags/176/papers)
+- [通天塔](http://tongtianta.site/)--论文阅读，中英文翻译对比
+
+#### 国外
+
+- [Arxiv](https://arxiv.org/)--寻找最新论文的网站
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)[[Code]](https://github.com/karpathy/arxiv-sanity-preserver)  --对 arXiv 更好的展示论文
+- [Papers With Code](https://paperswithcode.com/)--论文及其实现代码
+- [RSIP vision--图像处理和计算机上视觉](https://www.rsipvision.com/)
+- [Learn Opencv](https://www.learnopencv.com/)
+- (**推荐**)[PyimageSearch](https://www.pyimagesearch.com)--计算机视觉、opencv等，并且都是详细实现代码，每一步实现都解释得很清楚！
+
+
+
+### 博客
+
+#### 国内
+
+1. [机器学习--tornadomeet](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/default.html?page=1)--这是别人学习机器学习和深度学习做下笔记的博客，有好几十篇博文呢。
+2. [zouxy09的专栏](http://blog.csdn.net/zouxy09)--这个博客不只有机器学习内容，还有一个深度学习的系列。
+3. [Machine Learning](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/default.html?page=1)－－也是有关机器学习的一个博客。
+
+
+
+####　国外
+
+##### 公司&组织
+
+1. [OpenAI](https://blog.openai.com/)--OpenAI
+2. [Distill](https://distill.pub/)--Distill
+3. [Google AI Blog](https://ai.googleblog.com/)--谷歌AI的博客
+4. [Notes on machine learning](https://peterroelants.github.io/)
+5. [BAIR Blog](http://bair.berkeley.edu/blog/)--伯克利大学AI小组博客
+6. [DeepMind Blog](https://deepmind.com/blog/?category=research)--DeepMind的博客
+7. [FAIR Blog](https://research.fb.com/blog/)--Facebook AI博客
+
+##### 个人
+
+1. [SALu](https://shaoanlu.wordpress.com/)--有关于 GAN 方面的文章
+2. [Colah’s Blog](http://colah.github.io/)--神经网络理解方面的入门，以及深度学习知识
+3. [Ruder’s Blog](http://ruder.io/)--多任务学习、迁移学习
+4. [inFERENCe](https://www.inference.vc/)
+5. [Andrew Trask’s Blog](http://iamtrask.github.io/)
+6. [Adit Deshpande’s Blog](https://adeshpande3.github.io/)--比较适合入门神经网络
+7. [Graduate Descent](http://timvieira.github.io/blog/)
+
+
+
 ------
 
 ## Python 参考学习资料
