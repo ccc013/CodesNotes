@@ -15,11 +15,26 @@
 - [AI 参考学习资料](https://github.com/ccc013/CodesNotes#ai-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
   - [综合资源](https://github.com/ccc013/CodesNotes#%E7%BB%BC%E5%90%88%E8%B5%84%E6%BA%90)
   - [网上教程](https://github.com/ccc013/CodesNotes#%E7%BD%91%E4%B8%8A%E6%95%99%E7%A8%8B)
+    - [Tensorflow](https://github.com/ccc013/CodesNotes#tensorflow)
+    - [机器学习](https://github.com/ccc013/CodesNotes#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+    - [深度学习](https://github.com/ccc013/CodesNotes#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
   - [视频课程](https://github.com/ccc013/CodesNotes#%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
+    - [机器学习](https://github.com/ccc013/CodesNotes#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-1)
+    - [深度学习](https://github.com/ccc013/CodesNotes#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-1)
   - [书籍](https://github.com/ccc013/CodesNotes#%E4%B9%A6%E7%B1%8D)
+    - [机器学习](https://github.com/ccc013/CodesNotes#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-2)
+    - [深度学习](https://github.com/ccc013/CodesNotes#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-2)
   - [网站](https://github.com/ccc013/CodesNotes#%E7%BD%91%E7%AB%99)
+    - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85)
+    - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96)
   - [博客](https://github.com/ccc013/CodesNotes#%E5%8D%9A%E5%AE%A2)
+    - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85-1)
+    - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96-1)
+      - [公司&组织](https://github.com/ccc013/CodesNotes#%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87)
+      - [个人](https://github.com/ccc013/CodesNotes#%E4%B8%AA%E4%BA%BA)
 - [Python 参考学习资料](https://github.com/ccc013/CodesNotes#python-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
+  - [教程](https://github.com/ccc013/CodesNotes#%E6%95%99%E7%A8%8B)
+    - [Jupyter](https://github.com/ccc013/CodesNotes#jupyter)
 
 
 
@@ -111,7 +126,7 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 
 1. [机器学习--tornadomeet](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/default.html?page=1)--这是别人学习机器学习和深度学习做下笔记的博客，有好几十篇博文呢。
 2. [zouxy09的专栏](http://blog.csdn.net/zouxy09)--这个博客不只有机器学习内容，还有一个深度学习的系列。
-3. [Machine Learning](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/default.html?page=1)－－也是有关机器学习的一个博客。
+3. [Machine Learning](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/default.html?page=1)--也是有关机器学习的一个博客。
 
 
 
