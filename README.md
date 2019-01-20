@@ -128,8 +128,6 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 2. [zouxy09的专栏](http://blog.csdn.net/zouxy09)--这个博客不只有机器学习内容，还有一个深度学习的系列。
 3. [Machine Learning](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/default.html?page=1)--也是有关机器学习的一个博客。
 
-
-
 ####　国外
 
 ##### 公司&组织
