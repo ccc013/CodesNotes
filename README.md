@@ -10,7 +10,18 @@
 
 ------
 
-这里整理归纳一些平时收集到的书籍、教程、项目等资源，主要是机器学习、深度学习、Python方面的。
+这里整理归纳一些平时收集到的书籍、教程、项目等资源，主要是机器学习、深度学习、Python等，目录如下：
+
+- [AI 参考学习资料](https://github.com/ccc013/CodesNotes#ai-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
+  - [综合资源](https://github.com/ccc013/CodesNotes#%E7%BB%BC%E5%90%88%E8%B5%84%E6%BA%90)
+  - [网上教程](https://github.com/ccc013/CodesNotes#%E7%BD%91%E4%B8%8A%E6%95%99%E7%A8%8B)
+  - [视频课程](https://github.com/ccc013/CodesNotes#%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B)
+  - [书籍](https://github.com/ccc013/CodesNotes#%E4%B9%A6%E7%B1%8D)
+  - [网站](https://github.com/ccc013/CodesNotes#%E7%BD%91%E7%AB%99)
+  - [博客](https://github.com/ccc013/CodesNotes#%E5%8D%9A%E5%AE%A2)
+- [Python 参考学习资料](https://github.com/ccc013/CodesNotes#python-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
+
+
 
 ## AI 参考学习资料
 
@@ -131,3 +142,12 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 ------
 
 ## Python 参考学习资料
+
+
+### 教程
+
+#### Jupyter
+
+- Jupyter Notebook 教程[[入门]](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)[[进阶]](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)--介绍了 Jupyter 相关的库、资源和教程，总共11个类别等
+
