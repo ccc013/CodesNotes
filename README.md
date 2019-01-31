@@ -37,7 +37,10 @@
   - [教程](https://github.com/ccc013/CodesNotes#%E6%95%99%E7%A8%8B)
     - [Jupyter](https://github.com/ccc013/CodesNotes#jupyter)
 
-
+- [面试相关资料](https://github.com/ccc013/CodesNotes#%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
+  - [综合](https://github.com/ccc013/CodesNotes#%E7%BB%BC%E5%90%88)
+  - [题目](https://github.com/ccc013/CodesNotes#%E9%A2%98%E7%9B%AE)
+  - [面经](https://github.com/ccc013/CodesNotes#%E9%9D%A2%E7%BB%8F)
 
 ## AI 参考学习资料
 
