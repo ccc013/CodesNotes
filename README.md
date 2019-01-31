@@ -27,6 +27,7 @@
   - [网站](https://github.com/ccc013/CodesNotes#%E7%BD%91%E7%AB%99)
     - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85)
     - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96)
+  - [项目](https://github.com/ccc013/CodesNotes#%E9%A1%B9%E7%9B%AE)
   - [博客](https://github.com/ccc013/CodesNotes#%E5%8D%9A%E5%AE%A2)
     - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85-1)
     - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96-1)
@@ -168,6 +169,8 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 
 
 
+
+
 ------
 
 ## Python 参考学习资料
@@ -179,4 +182,18 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 
 - Jupyter Notebook 教程[[入门]](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)[[进阶]](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)--介绍了 Jupyter 相关的库、资源和教程，总共11个类别等
+
+------
+
+## 面试相关资料
+
+#### 综合
+
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)--2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+
+#### 题目
+
+- [BAT面试1000题](https://zhuanlan.zhihu.com/c_140166199)--知乎专栏，面试题目
+
+#### 面经
 
