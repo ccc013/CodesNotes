@@ -46,7 +46,9 @@
 2. [资源汇总 | 200多个最好的机器学习、NLP和Python相关教程](http://mp.weixin.qq.com/s?__biz=MzI0NDUwNzYzMg==&mid=2247483951&idx=1&sn=7a83632562662e520407627196c2ba65&chksm=e95df4b0de2a7da6958c89d1a3dbe43bc4165fab2ecdcc4992a666091bb1676e0e3fe570d822&mpshare=1&scene=1&srcid=#rd)
 3. [AI算法工程师手册](http://www.huaxiaozhuan.com/)--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识
 4. [StateOfTheArt.ai ](https://www.stateoftheart.ai/)--AI 界的 State of the Art都在这里了
-5. [Deep Learning - All You Need to Know](https://github.com/osforscience/deep-learning-ocean)--深度学习资源，包含了论文、网络模型、教程、数据集、博客、框架等等
+5. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai/blob/master/README.md)--有关 fashion 和 e-commerce 方面的研究论文、数据集等
+6. [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)--介绍了深度学习的一些模型，并且有图示，包含了图像分类、物体检测、人脸检测与识别等方向
+7. [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
 
 ### 网上教程
 
@@ -73,6 +75,7 @@
 
 - [李宏毅老师的机器学习课程](https://www.bilibili.com/video/av10590361)
 - [斯坦福大学的 CS229 机器学习课程](https://link.zhihu.com/?target=http%3A//cs229.stanford.edu/)
+- [给程序员的实践深度学习课程](https://course.fast.ai/)[[介绍]](https://mp.weixin.qq.com/s/aGhdgUQaO7eJylwThU65kQ)--整个课程一共7节，带你从理论到应用学成深度学习，计算机视觉、NLP、推荐系统等等一课打尽。并且非常偏向于实践，深受好评！
 
 #### 深度学习
 
@@ -117,6 +120,16 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [RSIP vision--图像处理和计算机上视觉](https://www.rsipvision.com/)
 - [Learn Opencv](https://www.learnopencv.com/)
 - (**推荐**)[PyimageSearch](https://www.pyimagesearch.com)--计算机视觉、opencv等，并且都是详细实现代码，每一步实现都解释得很清楚！
+
+
+
+### 项目
+
+- [Tensorflow/models](https://github.com/tensorflow/models)--TensorFlow 官方 Github
+- [gluon-cv](https://github.com/dmlc/gluon-cv)--GluonCV 提供了当前计算机视觉性能最优的深度学习模型
+- [imgaug](https://github.com/aleju/imgaug)--Image augmentation for machine learning experiments.数据增强库
+- [DPED](https://github.com/aiff22/DPED)--增强图片质量
+- [Deep Learning - All You Need to Know](https://github.com/osforscience/deep-learning-ocean)--深度学习资源，包含了论文、网络模型、教程、数据集、博客、框架等等
 
 
 
