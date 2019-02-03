@@ -120,14 +120,15 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 
 - [Arxiv](https://arxiv.org/)--寻找最新论文的网站
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)[[Code]](https://github.com/karpathy/arxiv-sanity-preserver)  --对 arXiv 更好的展示论文
-- [Papers With Code](https://paperswithcode.com/)--论文及其实现代码
+- （**强力推荐**）[Papers With Code](https://paperswithcode.com/)--论文及其实现代码
+- （**强力推荐**）[Browse state-of-the-art](https://paperswithcode.com/sota)--记录了16个大类，总共950+个任务的当前最先进的技术
 - [RSIP vision--图像处理和计算机上视觉](https://www.rsipvision.com/)
 - [Learn Opencv](https://www.learnopencv.com/)
 - (**推荐**)[PyimageSearch](https://www.pyimagesearch.com)--计算机视觉、opencv等，并且都是详细实现代码，每一步实现都解释得很清楚！
 
 
 
-### 项目
+### 项目 & Github
 
 - [Tensorflow/models](https://github.com/tensorflow/models)--TensorFlow 官方 Github
 - [gluon-cv](https://github.com/dmlc/gluon-cv)--GluonCV 提供了当前计算机视觉性能最优的深度学习模型
