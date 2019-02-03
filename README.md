@@ -27,7 +27,7 @@
   - [网站](https://github.com/ccc013/CodesNotes#%E7%BD%91%E7%AB%99)
     - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85)
     - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96)
-  - [项目](https://github.com/ccc013/CodesNotes#%E9%A1%B9%E7%9B%AE)
+  - [项目 & Github](https://github.com/ccc013/CodesNotes#%E9%A1%B9%E7%9B%AE--github)
   - [博客](https://github.com/ccc013/CodesNotes#%E5%8D%9A%E5%AE%A2)
     - [国内](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%86%85-1)
     - [国外](https://github.com/ccc013/CodesNotes#%E5%9B%BD%E5%A4%96-1)
@@ -135,6 +135,17 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [imgaug](https://github.com/aleju/imgaug)--Image augmentation for machine learning experiments.数据增强库
 - [DPED](https://github.com/aiff22/DPED)--增强图片质量
 - [Deep Learning - All You Need to Know](https://github.com/osforscience/deep-learning-ocean)--深度学习资源，包含了论文、网络模型、教程、数据集、博客、框架等等
+
+#### 论文
+
+- [deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation)--Github 深度学习论文翻译，包括分类论文，检测论文等
+- [deep-learning-papers](https://github.com/sbrugman/deep-learning-papers)--深度学习的论文，包括视觉、文本、音频，最新更新是2017年10月
+- [各种机器学习任务的顶级结果（论文）汇总](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)--汇总多个任务，包括视觉、语音、NLP、强化学习等方向的最顶级结果的论文
+
+#### 人脸
+
+- [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition):近十年的人脸相关的所有论文合集
+- [face_recognition](https://github.com/ageitgey/face_recognition):人脸识别库，可以实现识别、检测、匹配等等功能。
 
 
 
