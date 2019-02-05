@@ -209,6 +209,7 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 #### 题目
 
 - [BAT面试1000题](https://zhuanlan.zhihu.com/c_140166199)--知乎专栏，面试题目
+- [machine-learning-interview-questions](https://github.com/Sroy20/machine-learning-interview-questions)--英文版面试题目，包括深度学习、机器学习和数学
 
 #### 面经
 
