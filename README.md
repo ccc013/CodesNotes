@@ -65,13 +65,15 @@
 
 - [机器学习100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)[[中文翻译]](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 - [Machine Learning in Python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)--手把手教你利用Python对图像数据进行机器学习（使用scikit-learn
-和Keras）：Machine Learning in Python
-注：含KNN、朴素贝叶斯、Logistic回归、SVM、决策树、随机森林、神经网络和深度神经网络和CNN等算法
+  和Keras）：Machine Learning in Python
+  注：含KNN、朴素贝叶斯、Logistic回归、SVM、决策树、随机森林、神经网络和深度神经网络和CNN等算法
+- [CS229 机器学习速查表](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 #### 深度学习
 
 - [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)--基于TensorFlow和Keras的深度学习书籍《Deep Learning Cookbook》,代码很详细，包含多个项目！
 - [深度学习教程整理 | 干货](https://github.com/zeusees/HyperDL-Tutorial?from=singlemessage&isappinstalled=0)--整理深度学习方面的教程，包括基础网络、框架总结、网络设计和转换等
+- [CS230 深度学习速查表](https://github.com/afshinea/stanford-cs-230-deep-learning)
 
 ### 视频课程
 
@@ -147,7 +149,11 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition):近十年的人脸相关的所有论文合集
 - [face_recognition](https://github.com/ageitgey/face_recognition):人脸识别库，可以实现识别、检测、匹配等等功能。
 
+#### 计算机视觉
 
+#### 计算机视觉
+
+- [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)--图像分类方面的汇总，常用的网络模型的性能结果，代码实现以及论文。
 
 ### 博客
 
@@ -210,6 +216,7 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 
 - [BAT面试1000题](https://zhuanlan.zhihu.com/c_140166199)--知乎专栏，面试题目
 - [machine-learning-interview-questions](https://github.com/Sroy20/machine-learning-interview-questions)--英文版面试题目，包括深度学习、机器学习和数学
+- [深度学习面试中文版](https://github.com/elviswf/DeepLearningBookQA_cn)--问题，以及给出在《深度学习》中答案所在的页码
 
 #### 面经
 
