@@ -89,15 +89,6 @@ print('list6=sorted(list5), list5={}, list6={}'.format(list5, list6))
 # use list.sort()
 list5.sort()
 print('list5.sort(), list5: ', list5)
-# 反转列表
-list5.reverse()
-print('list5.reverse(), list5: ', list5)
-list7 = reversed(list5)
-print('list7=reversed(list5), list5={}, list7={}'.format(list5, list7))
-# for val in list7:
-#     print(val)
-list7_val = [val for val in list7]
-print('采用列表推导式, list7_val=', list7_val)
 
 # 列表元素也是列表
 list8 = [[4, 3], [5, 2], [1, 1]]
@@ -118,6 +109,18 @@ print('list_str_2 = sorted(list_str, key=lambda x: x[1]), list_str_2=', list_str
 # 先根据第三个元素，再根据第一个元素排列
 list_str_3 = sorted(list_str, key=lambda x: (x[2], x[0]))
 print('list_str_3 = sorted(list_str, key=lambda x: (x[2], x[0])), list_str_3=', list_str_3)
+print('===反转列表===')
+# 反转列表
+list5.reverse()
+print('list5.reverse(), list5: ', list5)
+list7 = reversed(list5)
+print('list7=reversed(list5), list5={}, list7={}'.format(list5, list7))
+# for val in list7:
+#     print(val)
+list7_val = [val for val in list7]
+print('采用列表推导式, list7_val=', list7_val)
+list_reversed = list5[::-1]
+print('list5 = {}\nlist_reversed = list5[::-1], list_reversed = {}'.format(list5, list_reversed))
 
 print('===其他===')
 # 列表元素求和
@@ -130,7 +133,16 @@ list_a = [1, 3, 5]
 list_b = [2, 4, 6]
 sum_pair = [sum(pair) for pair in zip(list_a, list_b)]
 print('sum_pair = [sum(pair) for pair in zip(list_a, list_b)], sum_pair =', sum_pair)
-import itertools
-#
-flatter_list = list(itertools.chain.from_iterable(list5))
-print('flatter_list = list(itertools.chain.from_iterable(list5)), flatter_list=', flatter_list)
+
+# 字符串和列表的相互转换
+print('===字符串和列表的相互转换===')
+strs = 'python'
+list_str = list(strs)
+print('strs = {}\nlist_str = list(strs), list_str={}'.format(strs, list_str))
+new_strs = '-'.join(list_str)
+print('new_strs= ', new_strs)
+
+# 计算某个元素出现的次数
+list_c = [2, 3, 2, 2, 1, 4]
+count = list_c.count(2)
+print('count = list.count(2), count={}'.format(count))
