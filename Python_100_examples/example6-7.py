@@ -4,7 +4,8 @@
 @Time    : 2019/2/16 20:36
 @Author  : cai
 
-example come from http://www.runoob.com/python/python-exercise-example6.html
+example 6 come from http://www.runoob.com/python/python-exercise-example6.html
+example 7 come from http://www.runoob.com/python/python-exercise-example7.html
 """
 import time
 
@@ -42,6 +43,16 @@ def fib_array(n):
     return fibs
 
 
+# ============== Example 7 ======================================
+# 复制列表
+# ===============================================================
+
+def copy_list(input_list):
+    print('original list: {}'.format(input_list))
+    copyed_list = input_list[:]
+    print('copyed_list: {}'.format(copyed_list))
+
+
 if __name__ == '__main__':
     start = time.time()
     a1 = fib1(30)
@@ -53,4 +64,8 @@ if __name__ == '__main__':
     fibs = fib_array(10)
     print('fib2 result=', a2)
     print('fib array=', fibs)
+
+    list1 = [3, 2, '1', [1,2]]
+    copy_list(list1)
+
     print('finish!')
