@@ -36,7 +36,7 @@
 - [Python 参考学习资料](https://github.com/ccc013/CodesNotes#python-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
   - [教程](https://github.com/ccc013/CodesNotes#%E6%95%99%E7%A8%8B)
     - [Jupyter](https://github.com/ccc013/CodesNotes#jupyter)
-    - [爬虫]()
+    - [爬虫](https://github.com/ccc013/CodesNotes#%E7%88%AC%E8%99%AB)
 
 - [面试相关资料](https://github.com/ccc013/CodesNotes#%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
   - [综合](https://github.com/ccc013/CodesNotes#%E7%BB%BC%E5%90%88)
