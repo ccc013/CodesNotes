@@ -36,6 +36,7 @@
 - [Python 参考学习资料](https://github.com/ccc013/CodesNotes#python-%E5%8F%82%E8%80%83%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
   - [教程](https://github.com/ccc013/CodesNotes#%E6%95%99%E7%A8%8B)
     - [Jupyter](https://github.com/ccc013/CodesNotes#jupyter)
+    - [爬虫]()
 
 - [面试相关资料](https://github.com/ccc013/CodesNotes#%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
   - [综合](https://github.com/ccc013/CodesNotes#%E7%BB%BC%E5%90%88)
@@ -204,6 +205,10 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - Jupyter Notebook 教程[[入门]](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)[[进阶]](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)--介绍了 Jupyter 相关的库、资源和教程，总共11个类别等
 
+#### 爬虫
+
+- [python模拟登陆一些大型网站，还有一些简单的爬虫](https://github.com/CriseLYJ/awesome-python-login-model)
+
 ------
 
 ## 面试相关资料
@@ -218,6 +223,7 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [machine-learning-interview-questions](https://github.com/Sroy20/machine-learning-interview-questions)--英文版面试题目，包括深度学习、机器学习和数学
 - [深度学习面试中文版](https://github.com/elviswf/DeepLearningBookQA_cn)--问题，以及给出在《深度学习》中答案所在的页码
 - [Python面试题](https://github.com/kenwoodjw/python_interview_question)--接近 300 道面试题，不少问题也给出了答案
+- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)--包含算法、操作系统、数据库、网络、JAVA等面试题目
 
 #### 面经
 
