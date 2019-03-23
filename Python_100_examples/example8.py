@@ -6,6 +6,7 @@
 
 example 8 come from http://www.runoob.com/python/python-exercise-example8.html
 example 9 come from http://www.runoob.com/python/python-exercise-example9.html
+example 10 come from http://www.runoob.com/python/python-exercise-example10.html
 
 """
 import time

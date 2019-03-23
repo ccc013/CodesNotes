@@ -54,6 +54,7 @@
 5. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai/blob/master/README.md)--有关 fashion 和 e-commerce 方面的研究论文、数据集等
 6. [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)--介绍了深度学习的一些模型，并且有图示，包含了图像分类、物体检测、人脸检测与识别等方向
 7. [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
+8. [A complete ML study path, focused on TensorFlow and Scikit-Learn](https://github.com/clone95/Machine-Learning-Study-Path-March-2019/tree/master/Career%20Paths/Machine%20Learning%20Engineer%20Career%20Path)--机器学习的学习路线
 
 ### 网上教程
 
@@ -69,18 +70,23 @@
   和Keras）：Machine Learning in Python
   注：含KNN、朴素贝叶斯、Logistic回归、SVM、决策树、随机森林、神经网络和深度神经网络和CNN等算法
 - [CS229 机器学习速查表](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- [机器学习笔记](https://feisky.xyz/machine-learning/)--机器学习与人工智能学习笔记，包括机器学习、深度学习以及常用开源框架（Tensorflow、PyTorch）等
 
 #### 深度学习
 
 - [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)--基于TensorFlow和Keras的深度学习书籍《Deep Learning Cookbook》,代码很详细，包含多个项目！
 - [深度学习教程整理 | 干货](https://github.com/zeusees/HyperDL-Tutorial?from=singlemessage&isappinstalled=0)--整理深度学习方面的教程，包括基础网络、框架总结、网络设计和转换等
 - [CS230 深度学习速查表](https://github.com/afshinea/stanford-cs-230-deep-learning)
+- [deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）](https://github.com/fengdu78/deeplearning_ai_books)，[吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)--同一个作者对吴恩达老师两门课程的笔记和资源
+- [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)--一系列基于 Pytorch 的教程，目前包括 caption、sequence labeling、object detection 和 Text Classification, 复现对应领域的某篇论文的代码
+
+
 
 ### 视频课程
 
 #### 机器学习
 
-- [李宏毅老师的机器学习课程](https://www.bilibili.com/video/av10590361)
+- 李宏毅老师的 2019 机器学习课程 [[youtube]](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)[[B站]](https://www.bilibili.com/video/av46561029/) [[课程资料链]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - [斯坦福大学的 CS229 机器学习课程](https://link.zhihu.com/?target=http%3A//cs229.stanford.edu/)
 - [给程序员的实践深度学习课程](https://course.fast.ai/)[[介绍]](https://mp.weixin.qq.com/s/aGhdgUQaO7eJylwThU65kQ)--整个课程一共7节，带你从理论到应用学成深度学习，计算机视觉、NLP、推荐系统等等一课打尽。并且非常偏向于实践，深受好评！
 
@@ -88,6 +94,7 @@
 
 - [李宏毅老师的深度学习课程](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av9770302)
 - [CS231n课程](https://link.zhihu.com/?target=http%3A//cs231n.stanford.edu/)
+- Andrew Ng 的 deeplearning.ai   [Coursera](http://link.zhihu.com/?target=https%3A//www.coursera.org/specializations/deep-learning) [网易云课堂](http://link.zhihu.com/?target=http%3A//mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
 ### 书籍
 
@@ -150,11 +157,12 @@ https://github.com/fengdu78/lihang-code--python3.6版本
 - [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition):近十年的人脸相关的所有论文合集
 - [face_recognition](https://github.com/ageitgey/face_recognition):人脸识别库，可以实现识别、检测、匹配等等功能。
 
-#### 计算机视觉
+#### 
 
 #### 计算机视觉
 
 - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)--图像分类方面的汇总，常用的网络模型的性能结果，代码实现以及论文。
+- [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)--图像修复方面的资料汇总
 
 ### 博客
 
