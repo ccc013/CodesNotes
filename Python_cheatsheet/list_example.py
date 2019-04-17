@@ -21,6 +21,7 @@ print('list1:', list1)
 print('list2:', list2)
 print('list3:', list3)
 print('list4:', list4)
+print('len(list4): ', len(list4))
 
 # ===============================================================
 # 增删查找
