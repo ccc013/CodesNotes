@@ -5,7 +5,6 @@
 
 #### 正在学习List
 
-- [《hands-on-ml-with-sklearn-and-tf》](https://github.com/ageron/handson-ml)
 - [程序员的数学基础课](https://time.geekbang.org/column/intro/143)
 
 ------
